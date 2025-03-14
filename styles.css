@@ -133,12 +133,13 @@ a {
   padding: 9px;
   padding-top: 7px;
   border: 1px solid #dddddd00;
-  font-family: calibri;
+  font-family: arial;
   font-weight: bold;
   font-style: initial;
   font-size: medium;
   white-space: nowrap;
   text-overflow: ellipsis;
+  color: #000000;
 }
 
 .tab-button.active {
